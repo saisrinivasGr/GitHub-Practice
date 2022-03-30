@@ -4,6 +4,6 @@
 CVS a version control tool?
 
 The Concurrent Versions System (CVS) is a version control system for keeping track of all
- modifications to project source code files. CVS is widely used in both open source and proprietary
+ modifications to project source code files. CVS  widely used in both open source and proprietary
  software development projects, and is generally considered to be the best freely available,
  full-featured version control tool.
