@@ -7,3 +7,6 @@ The CVS repository stores a complete copy of all the files and directories which
  version control. Normally, you never access any of the files in the repository directly.
  Instead, you use CVS commands to get your own copy of the files into a working directory,
  and then work on that copy.
+
+Concurrent Versions System is a revision control system originally developed by Dick Grune in July 1986. CVS operates as a front end to RCS, an earlier system
+which operates on single files.

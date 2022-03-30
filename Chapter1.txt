@@ -1,0 +1,6 @@
+
+
+Is CVS is configuration management tool?
+What Does Concurrent Versions System (CVS) Mean? Concurrent versions system (CVS) is an
+ open-source software configuration management utility designed to manage different versions
+ of the same software project in a specialized repository.
