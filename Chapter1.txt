@@ -7,5 +7,5 @@ What Does Concurrent Versions System (CVS) Mean? Concurrent versions system (CVS
 
 What is a CVS module?
 CVS modules are just symbolic names for sets of files, generally just symbolic names for a
-particular directory in the repository. example,of the module "news-template" refers to
+particular directory in the repository so. example,of the module "news-template" refers to
 the path leland/news/template in the repository.
