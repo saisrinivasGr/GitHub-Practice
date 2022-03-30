@@ -12,7 +12,3 @@ Concurrent Versions System is a revision control system originally developed by 
 which operates on single files.
 
 
-What is a CVS module?
-CVS modules are just symbolic names for sets of files, generally just symbolic names for a
-particular directory in the repository. For example, the module "news-template" refers
-to the path leland/news/template in the repository.
