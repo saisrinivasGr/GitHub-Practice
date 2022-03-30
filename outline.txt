@@ -1,0 +1,9 @@
+
+
+
+How does CVS version control work?
+
+The CVS repository stores a complete copy of all the files and directories which are under
+ version control. Normally, you never access any of the files in the repository directly.
+ Instead, you use CVS commands to get your own copy of the files into a working directory,
+ and then work on that copy.
